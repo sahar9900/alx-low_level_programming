@@ -25,5 +25,5 @@ putchar(' ');
 }
 }
 putchar('\n');
-}
+{
 
