@@ -1,4 +1,3 @@
-
 #include "main.h"
 /**
 * print_alphabet_x10 - prints the alphabet 10 times.
@@ -7,11 +6,18 @@
 */
 void print_alphabet_x10(void)
 {
+char ch;
 int i;
-int j;
-for (j = i; i <= 10; i++)
+i = 0;
+while (i < 10)
 {
-_putchar(j);
+ch = 'a';
+while (ch <= 'z')
+{
+_putchar(ch);
+ch++;
 }
 _putchar('\n');
+i++;
+}
 }
