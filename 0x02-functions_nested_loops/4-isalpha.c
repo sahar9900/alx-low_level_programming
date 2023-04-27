@@ -12,5 +12,3 @@ return (1);
 }
 return (0);
 }
-_putchar('\n');
-{
