@@ -1,1 +1,1 @@
-0x07 c even more pointers arrays and strings
+0x12-singly_linked_lists
